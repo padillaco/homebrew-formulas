@@ -1,6 +1,6 @@
 
 # This formula installs the WP Engine Sync script, which allows users to sync content from WP Engine sites to their local machine.
-class WPEngineSync < Formula
+class WpengineSync < Formula
   desc "Sync content from WP Engine sites to your local machine"
   homepage "https://github.com/padillaco/homebrew-wpengine-sync"
   url "https://github.com/padillaco/homebrew-wpengine-sync/archive/refs/tags/v0.1.0.tar.gz"

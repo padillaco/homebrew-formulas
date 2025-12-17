@@ -3,8 +3,8 @@
 class WpengineSync < Formula
   desc "Sync content from WP Engine sites to your local machine"
   homepage "https://github.com/padillaco/homebrew-wpengine-sync"
-  url "https://github.com/padillaco/homebrew-wpengine-sync/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "3833ad5aad001b4e0feb241d7638c71a3b1c345c17d967fca770094c60299f6d"
+  url "https://github.com/padillaco/homebrew-wpengine-sync/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
   license "MIT"
 
   depends_on "bash"

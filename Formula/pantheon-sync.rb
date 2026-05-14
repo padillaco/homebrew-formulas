@@ -3,8 +3,8 @@
 class PantheonSync < Formula
   desc "Sync content from Pantheon sites to your local machine"
   homepage "https://github.com/padillaco/homebrew-pantheon-sync"
-  url "https://github.com/padillaco/homebrew-pantheon-sync/archive/refs/tags/v0.6.3.tar.gz"
-  sha256 "e37f35678799f89c0e08edc2752981595632a011a8daa6c5c87ab4be782b8e76"
+  url "https://github.com/padillaco/homebrew-pantheon-sync/archive/refs/tags/v0.6.4.tar.gz"
+  sha256 "ed64b17fa1f83db53ec90d4291818ea011b278cb9857a7c1d3d9c9c6630f4af8"
   license "MIT"
 
   depends_on "bash"

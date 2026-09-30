@@ -12,7 +12,7 @@ Custom Homebrew tap for WP Engine and Pantheon sync tools.
 Users can install these formulas by tapping this repository:
 
 ```sh
-brew tap padillaco/formulas
+brew tap padillaco/homebrew-formulas
 brew install wpengine-sync
 # or
 brew install pantheon-sync
